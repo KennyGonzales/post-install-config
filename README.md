@@ -20,14 +20,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Log into osTicket **Admin** panel
-- Configure 'Roles'
-- Configure 'Departments'
-- Configure 'Teams'
+- Configure Roles, Departments, & Teams
 - Allow anyone to create tickets
-- Configure 'Agents 
-- Configure 'Users'
-- Configure 'SLA'
-- Configure 'Help Topics'
+- Configure Agents, Users, & SLA
+- Design Help Topics
 
 <h2>Configuration Steps</h2>
 
