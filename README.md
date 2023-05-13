@@ -27,13 +27,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-After logging into your helpdesk login page (http://localhost/osTicket/scp/login.php), it will take you to the **agent** panel. This displays the tickets for the helpdesk/admin that are created by the end users. 
+After logging into your helpdesk login page (http://localhost/osTicket/scp/login.php), it will take you to the **_agent_** panel. This displays the tickets for the helpdesk/admin that are created by the end users. 
 
 <img src="https://i.imgur.com/0GC1PFq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>
   
-Write here  
+Configure: Roles
+  
+Write here   
   
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
