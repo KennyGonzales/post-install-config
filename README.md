@@ -33,11 +33,11 @@ After logging into your helpdesk login page (http://localhost/osTicket/scp/login
 
 <p>
   
-`Configure: Roles`
+-Configure: **Roles**
+
+When logged in  
   
-Write here   
-  
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UrRMt0r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
