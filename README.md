@@ -47,7 +47,7 @@ In the admin panel, we will go to `Agents`, click on `Roles`, and we are going t
 
 <p>
   
-Write here  
+We can now proceed to enable permissions for this role. As the "Supreme Admin," we have chosen to enable all available permissions.
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
