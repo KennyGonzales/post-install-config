@@ -54,10 +54,10 @@ We can now proceed to enable permissions for this role. As the "Supreme Admin," 
 <p>
 </p>
 <br />
-
+<hr>
 <p>
-  
-Write here  
+
+-Configure: Departments 
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
