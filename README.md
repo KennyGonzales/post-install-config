@@ -33,7 +33,7 @@ After logging into your helpdesk login page (http://localhost/osTicket/scp/login
 
 <p>
   
--Configure: **Roles**
+-Configure: [**Roles**]
   
 Roles define the permissions granted to agents based on the departments they can access. Each role consists of a specific set of permissions that can be enabled or disabled for agents assigned to that role within their associated department. There is no limit to the number of roles that can be created, allowing for flexible assignment of roles to agents with access to different departments.  
 
@@ -57,7 +57,11 @@ We can now proceed to enable permissions for this role. As the "Supreme Admin," 
 <hr>
 <p>
 
--Configure: **Departments**
+-Configure: [**Departments**]
+  
+Given that tickets are directed to specific departments in the help desk, there are numerous settings that can be configured for each department.
+  
+  
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
