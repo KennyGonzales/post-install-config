@@ -73,7 +73,7 @@ In the `Admin` panel, we'll click on `Agents` then `Departments`. When we add th
   
 -Configure: [**Teams**]
   
-Write r  
+Teams enable the grouping of agents from various departments, allowing them to collaborate and address specific issues or users based on help topics or ticket filters.
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
