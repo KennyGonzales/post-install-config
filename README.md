@@ -34,6 +34,8 @@ After logging into your helpdesk login page (http://localhost/osTicket/scp/login
 <p>
   
 -Configure: **Roles**
+  
+Roles define the permissions granted to agents based on the departments they can access. Each role consists of a specific set of permissions that can be enabled or disabled for agents assigned to that role within their associated department. There is no limit to the number of roles that can be created, allowing for flexible assignment of roles to agents with access to different departments.  
 
 When logged in  
   
