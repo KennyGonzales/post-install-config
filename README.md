@@ -61,17 +61,19 @@ We can now proceed to enable permissions for this role. As the "Supreme Admin," 
   
 Given that tickets are directed to specific departments in the help desk, there are numerous settings that can be configured for each department.
   
-  
+In the `Admin` panel, we'll click on `Agents` then `Departments`. When we add the new department, we will name that department **System Administators**. Keep the remaining fields at their default settings and take a moment to review the available options and selections to choose from.  
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
 <br />
-
+<hr>
 <p>
   
-Write here  
+-Configure: [**Teams**]
+  
+Write r  
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
