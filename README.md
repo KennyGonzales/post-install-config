@@ -37,7 +37,7 @@ After logging into your helpdesk login page (http://localhost/osTicket/scp/login
   
 Roles define the permissions granted to agents based on the departments they can access. Each role consists of a specific set of permissions that can be enabled or disabled for agents assigned to that role within their associated department. There is no limit to the number of roles that can be created, allowing for flexible assignment of roles to agents with access to different departments.  
 
-When logged in  
+In the admin panel, we will go to `Agents`, click on `Roles`, and we are going to create a new role called `Supreme Admin`. 
   
 <img src="https://i.imgur.com/UrRMt0r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
