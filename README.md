@@ -77,7 +77,11 @@ In the `Admin` panel, we'll click on `Agents` then `Departments`. When we add th
   
 Teams enable the grouping of agents from various departments, allowing them to collaborate and address specific issues or users based on help topics or ticket filters.
   
+In the `Admin` panel, we'll go to `Agents` then `Teams`. From there, we'll create two teams and name them **Level I Support** and **Level II Support**.    
+  
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 </p>
@@ -85,17 +89,21 @@ Teams enable the grouping of agents from various departments, allowing them to c
 
 <p>
   
-Write here  
+-Allow anyone to create tickets in user settings
+  
+Enforcing user registration for ticket creation on the Help Desk serves the purpose of preventing random ticket submissions and limiting Users' access to the help desk.
+ 
+In the `Admin` panel, we'll go to `Settings` then `User Settings`. For `Registration Required`, we are going to leave it **unchekced** for tickets being created with no restrictions/limitations. 
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
 <br />
-
+<hr>
 <p>
   
-Write here  
+-Configure: [**Agents**]
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
