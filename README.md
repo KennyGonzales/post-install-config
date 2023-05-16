@@ -120,17 +120,24 @@ In the `Admin` panel, we'll go to `Agents` then `Add New`. From there, we are go
   
 -Configure: [**Users**]
   
+Users have the ability to create an account and log in to the help desk system. Once logged in, they can create new tickets or check the status of their existing tickets.  
   
+In the `Admin` panel, we will click on `Users` then `Add New`. We will create two users and name them **Karen** and **Ken**.   
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 </p>
 <br />
-
+<hr>
 <p>
   
-Write here  
+-Configure: [**SLA**]
+  
+In osTicket, there are no limitations on the number of SLA Plans or Service Level Agreements that can be created. The purpose of an SLA Plan is to define the expected timeframe within which help desk administrators anticipate ticket closure.
+  
+In the `Admin` panel, we will click on `Manage` then `SLA`. We will create   
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
