@@ -146,12 +146,18 @@ In the `Admin` panel, we will click on `Manage` then `SLA`. We'll create three S
 <p>
 </p>
 <br />
-
+<hr>
 <p>
   
-Write here  
+-Configure: [**Help Topics**]
+  
+Help Topics play a crucial role in enhancing the end-user's help desk experience by facilitating efficient ticket assignment and prompt responses. You can create multiple Help Topics as required, and even organize them hierarchically for further categorization. For instance, you can nest Help Topics within each other, such as Human Resources and Human Resources/Payroll, to provide a more detailed breakdown of topics.
+  
+From the `Admin` panel, we'll click on `Manage` then `Help Topics`. We will create four help topics which will be **Business Critical Outage**, **Personal Computer Issues**, **Equipment Request**, and **Password Reset**.   
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 </p>
@@ -159,7 +165,7 @@ Write here
 
 <p>
   
-Write here  
+The selected items are all the tickets that we have created. The other are created by default.   
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
