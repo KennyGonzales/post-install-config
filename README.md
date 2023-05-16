@@ -105,6 +105,43 @@ In the `Admin` panel, we'll go to `Settings` then `User Settings`. For `Registra
   
 -Configure: [**Agents**]
   
+Agents are granted access to the help desk to handle ticket responses and resolutions. When adding an agent to the help desk, they must be assigned a primary department and given a primary role for handling tickets and tasks routed to that department. Additionally, agents can be granted extended access to additional departments within the help desk and assigned different roles for those departments. These configurations can be managed in the Access tab of the agent's profile.
+
+In the `Admin` panel, we'll go to `Agents` then `Add New`. From there, we are going to create and name two agents as **Jane** and **John**.  
+  
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+</p>
+<p>
+</p>
+<br />
+<hr>
+<p>
+  
+-Configure: [**Users**]
+  
+  
+  
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+
+<p>
+  
+Write here  
+  
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+
+<p>
+  
+Write here  
+  
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
