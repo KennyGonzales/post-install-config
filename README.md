@@ -137,9 +137,11 @@ In the `Admin` panel, we will click on `Users` then `Add New`. We will create tw
   
 In osTicket, there are no limitations on the number of SLA Plans or Service Level Agreements that can be created. The purpose of an SLA Plan is to define the expected timeframe within which help desk administrators anticipate ticket closure.
   
-In the `Admin` panel, we will click on `Manage` then `SLA`. We will create   
+In the `Admin` panel, we will click on `Manage` then `SLA`. We'll create three SLA plans and name them **Sev-A**, **Sev-B**, and **Sev-C**. The grace period and schedule for **Sev-A** will be **1 hour, 24/7**. For **Sev-B**, it's **4 hours, 24/7**. With **Sev-C**, it's **8 hours, business hours**. 
   
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 </p>
