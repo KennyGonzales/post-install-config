@@ -172,5 +172,5 @@ The selected items are all the tickets that we have created. The other are creat
 <p>
 </p>
 <br />
-<p align="right"> Next up, <a href="https://github.com/0xbythesecond/ticket-lifestyle"
+<p align="right"> Next up, <a href="https://github.com/KennyGonzales/ticket-lifestyle"
 >Ticket Lifestyle </a></p>
