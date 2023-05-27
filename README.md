@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 After logging into your helpdesk login page (http://localhost/osTicket/scp/login.php), it will take you to the **_agent_** panel. This displays the tickets for the helpdesk/admin that are created by the end users. 
 
-<img src="https://i.imgur.com/0GC1PFq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VlPO53m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>
   
@@ -39,7 +39,7 @@ Roles define the permissions granted to agents based on the departments they can
 
 In the admin panel, we will go to `Agents`, click on `Roles`, and we are going to create a new role called `Supreme Admin`. 
   
-<img src="https://i.imgur.com/UrRMt0r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mzjHJiA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
