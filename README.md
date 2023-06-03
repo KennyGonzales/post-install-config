@@ -139,9 +139,9 @@ In osTicket, there are no limitations on the number of SLA Plans or Service Leve
   
 In the `Admin` panel, we will click on `Manage` then `SLA`. We'll create three SLA plans and name them **Sev-A**, **Sev-B**, and **Sev-C**. The grace period and schedule for **Sev-A** will be **1 hour, 24/7**. For **Sev-B**, it's **4 hours, 24/7**. With **Sev-C**, it's **8 hours, business hours**. 
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/pxblmkA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8wmF9e4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aFHULuq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 </p>
