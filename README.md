@@ -155,9 +155,8 @@ Help Topics play a crucial role in enhancing the end-user's help desk experience
   
 From the `Admin` panel, we'll click on `Manage` then `Help Topics`. We will create four help topics which will be **Business Critical Outage**, **Personal Computer Issues**, **Equipment Request**, and **Password Reset**.   
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/cqaaoI4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/v1JzYj4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 </p>
@@ -167,7 +166,7 @@ From the `Admin` panel, we'll click on `Manage` then `Help Topics`. We will crea
   
 The selected items are all the tickets that we have created. The other are created by default.   
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Fs9fhuw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
