@@ -124,8 +124,8 @@ Users have the ability to create an account and log in to the help desk system. 
   
 In the `Admin` panel, we will click on `Users` then `Add New`. We will create two users and name them **Karen** and **Ken**.   
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/JvxHBib.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/efujVfj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 </p>
