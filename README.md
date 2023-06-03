@@ -95,7 +95,7 @@ Enforcing user registration for ticket creation on the Help Desk serves the purp
  
 In the `Admin` panel, we'll go to `Settings` then `User Settings`. For `Registration Required`, we are going to leave it **unchekced** for tickets being created with no restrictions/limitations. 
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3iqKvL6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -109,8 +109,8 @@ Agents are granted access to the help desk to handle ticket responses and resolu
 
 In the `Admin` panel, we'll go to `Agents` then `Add New`. From there, we are going to create and name two agents as **Jane** and **John**.  
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/qv7K4Op.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/o0B7D42.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 </p>
