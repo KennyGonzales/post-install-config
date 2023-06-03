@@ -40,7 +40,7 @@ Roles define the permissions granted to agents based on the departments they can
 In the admin panel, we will go to `Agents`, click on `Roles`, and we are going to create a new role called `Supreme Admin`. 
   
 <img src="https://i.imgur.com/mzjHJiA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/A4qspi8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 </p>
@@ -50,7 +50,7 @@ In the admin panel, we will go to `Agents`, click on `Roles`, and we are going t
   
 We can now proceed to enable permissions for this role. As the "Supreme Admin," we have chosen to enable all available permissions.
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4p1Nff6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -64,8 +64,8 @@ Given that tickets are directed to specific departments in the help desk, there 
   
 In the `Admin` panel, we'll click on `Agents` then `Departments`. When we add the new department, we will name that department **System Administators**. Keep the remaining fields at their default settings and take a moment to review the available options and selections to choose from.  
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/5GkaoH3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DHcMqqj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 </p>
