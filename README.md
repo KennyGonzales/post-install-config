@@ -40,7 +40,7 @@ Roles define the permissions granted to agents based on the departments they can
 In the admin panel, we will go to `Agents`, click on `Roles`, and we are going to create a new role called `Supreme Admin`. 
   
 <img src="https://i.imgur.com/mzjHJiA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/A4qspi8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/Ef0Jpt0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 </p>
